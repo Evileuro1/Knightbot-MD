@@ -3,7 +3,7 @@ const settings = {
   author: '‎',
   botName: "Knight Bot",
   botOwner: 'EVIL EURO', // Your name
-  ownerNumber: '8109444742', //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '2348109444742', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
